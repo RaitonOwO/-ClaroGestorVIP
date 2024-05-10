@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "usuarios": [
         {
             "nombre": "sebastian",
@@ -14,5 +15,11 @@
             "cliente": "nuevo",
             "edad": 18
         }
+=======
+    "usuarios":[
+        {"nombre":"sebastian","direccion":"cr 28 #88 A06","telefono":"3162249944","documento":1097097808,"cliente":"nuevo","edad":16}
+        
+        
+>>>>>>> da771b6b39fe1380b8e3229fb60b5ad72f643db5
     ]
 }

@@ -4,9 +4,12 @@ def registrar_usuario(datos):
     usuario["nombre"]=input("Ingrese el nombre: ")
     usuario["documento"]=input("Ingrese el documento: ")
     usuario["cliente"]=input("Ingrese el tipo de cliente: ")
+<<<<<<< HEAD
     usuario["telefono"]=input("Ingrese el numero de telefono: ")
     usuario["direccion"]=input("Ingrese la direccion: ")
 
+=======
+>>>>>>> da771b6b39fe1380b8e3229fb60b5ad72f643db5
     try:
         usuario["edad"] = int(input("Ingrese la edad: "))
     except Exception:
@@ -14,6 +17,7 @@ def registrar_usuario(datos):
     datos["usuarios"].append(usuario)
     print("Usuario registrado con éxito!")
     return datos
+<<<<<<< HEAD
 
 
 def eliminar_participante(datos):
@@ -65,3 +69,5 @@ def categoria_usuario(datos):
 
 
 
+=======
+>>>>>>> da771b6b39fe1380b8e3229fb60b5ad72f643db5

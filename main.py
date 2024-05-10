@@ -5,6 +5,7 @@ from modulo_usuarios import *
 
 #constantes
 RUTA_USUARIOS = "usuarios.json"
+<<<<<<< HEAD
 RUTA_VENTAS = "ventas.json"
 
 datos = cargar_datos(RUTA_USUARIOS)
@@ -36,4 +37,7 @@ while True:
     elif opc == 4:
         print("Saliendo...")
         break
+=======
+
+>>>>>>> da771b6b39fe1380b8e3229fb60b5ad72f643db5
 

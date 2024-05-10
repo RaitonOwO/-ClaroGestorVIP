@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+        {
+            "nombre": "sebastian",
+            "direccion": "cr 28 #88 A06",
+            "telefono": "3162249944",
+            "documento": 1097097808,
+            "cliente": "nuevo",
+            "edad": 16
+        },
+        {
+            "nombre": "Juan ",
+            "documento": "1122334455",
+            "cliente": "nuevo",
+            "edad": 18
+        }
+    ]
+}

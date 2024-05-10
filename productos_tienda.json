@@ -1,0 +1,10 @@
+{
+    "productos":[
+        {
+            "referencia":"Iphone 15 pro max",
+            "precio":"1500 usd",
+            "garantia": "1 año",
+            "fabricante":"Apple"
+        }
+    ]
+}

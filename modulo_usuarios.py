@@ -58,3 +58,22 @@ def editar_usuario(datos):
             print("Usuario no encontrado!")
     return datos
     
+def asignar_categoria_usuario(datos):
+    datos = dict(datos)
+    buscar_usuario = input("ingrese el documento del usuario: ")
+    for usuarios in datos["usuarios"]:
+        if usuarios["documento"] == buscar_usuario:
+            print ("Usuario encontrado!")
+            nueva_categoria = input("Ingrese el tipo de cliente: ")
+            if nueva_categoria:
+                usuarios["cliente"] = nueva_categoria
+                print("Categoria actualizada!")
+            else:
+                print("Usuario no encontrado!")
+
+    return datos
+
+def mostar_usuarios(datos):
+    datos = dict(datos)
+    for i in datos["usuarios"]:
+        print (i)

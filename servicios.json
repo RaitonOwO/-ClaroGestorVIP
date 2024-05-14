@@ -51,17 +51,8 @@
             "cliente": "nuevo",
             "telefono": "3152249944",
             "direccion": "cr 27 # 55",
-            "servicio_contratado": "",
+            "servicio_contratado": "pospago",
             "edad": 118
-        },
-        {
-            "nombre": "Javier Sneider",
-            "documento": "2344586698",
-            "cliente": "",
-            "telefono": "3202249944",
-            "direccion": "cr 99 # 11",
-            "servicio_contratado": "",
-            "edad": 23
         }
     ]
 }

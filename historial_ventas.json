@@ -1,0 +1,16 @@
+{
+    "compras": [
+        {
+            "fecha": "2024-05-12 15:30:00",
+            "historial": "Se han comprado 1 unidades del producto Iphone 15 pro max."
+        },
+        {
+            "fecha": "2024-05-13 12:45:27",
+            "historial": "Se han comprado 1 unidades del producto Iphone 15 pro max."
+        },
+        {
+            "fecha": "2024-05-13 12:46:16",
+            "historial": "Se han comprado 1 unidades del producto Samsung Galaxy S24 ultra 5G."
+        }
+    ]
+}

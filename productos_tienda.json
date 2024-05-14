@@ -1,10 +1,76 @@
 {
-    "productos":[
+    "productos": [
         {
-            "referencia":"Iphone 15 pro max",
-            "precio":"1500 usd",
-            "garantia": "1 año",
-            "fabricante":"Apple"
+            "referencia": "Iphone 15 pro max",
+            "precio": "1500 usd",
+            "garantia": "1 a\u00f1o",
+            "fabricante": "Apple",
+            "stock": 16,
+            "caracteristicas": "Ancho: 7,67 cm, Alto: 15,99 cm, Pantalla Super Retina XDR, Pantalla OLED de 6,7 pulgadas (17 cm) en diagonal,Resoluci\u00f3n de 2.796 por 1.290 p\u00edxeles a 460 p/p, Pantalla siempre activa, "
+        },
+        {
+            "referencia": "Samsung Galaxy S24 ultra 5G",
+            "precio": "8000 usd",
+            "garantia": "1 a\u00f1o",
+            "fabricante": "Samsung",
+            "stock": 18,
+            "caracteristicas": "Dimensiones: 162,3 x 79 x 8,6mm, Almacenamiento: 12 + 1 TB, Camaras traseras: 200 MP, f/1.7, OIS, 50 MP, f/3.4, OIS, zoom x5,10 MP, f/2.4, OIS, zoom x3,12 MP, f/2.2, Bateria: 5.000mAh, 45W carga r\u00e1pida, Carga inal\u00e1mbrica 15W"
+        },
+        {
+            "referencia": "Redmi Note 12 pro 5G",
+            "precio": "5000 usd",
+            "garantia": "1 a\u00f1o",
+            "fabricante": "Xiaomi",
+            "stock": 20,
+            "caracteristicas": "C\u00e1mara principal : 50 MP\u3001OIS, C\u00e1mara ultra gran angular : 8 MP, C\u00e1mara macro : 2 MP, C\u00e1mara frontal : 16 MP, Velocidad de carga : 67 W,Capacidad de la bater\u00eda : 5000 mAh (t\u00edp.), Resistente a salpicaduras, al agua y al polvo, Tama\u00f1o de pantalla : 6,67 '', Material de la pantalla : AMOLED, Resoluci\u00f3n : 2400 x 1080, Brillo m\u00e1ximo : 900 nits, Tasa de refresco : 120 Hz"
+        },
+        {
+            "referencia": "AirPods Pro (2da Generaci\u00f3n) con Case de Carga MagSafe USB-C",
+            "precio": "800 usd",
+            "garantia": "1 a\u00f1o",
+            "fabricante": "Apple",
+            "stock": 20,
+            "caracteristicas": "Cancelaci\u00f3n Activa de Ruido, Modo Ambiente, Dise\u00f1o Personalizado, Calidad de Sonido Superior, Resistencia al Agua y al Sudor, Conectividad Eficiente, Estuche de Carga Inal\u00e1mbrica, Compatibilidad Amplia"
+        },
+        {
+            "referencia": "Xiaomi Redmi Buds 5 Pro",
+            "precio": "800 usd",
+            "garantia": "1 a\u00f1o",
+            "fabricante": "Apple",
+            "stock": 20,
+            "caracteristicas": "Conectividad: Bluetooth 5.3,Tecnolog\u00eda ANC, Micr\u00f3fonos, Resistencia al agua: IP54, Autonom\u00eda ininterrumpida: 10 horas, Autonom\u00eda total: 38 horas, Carga r\u00e1pida, Control: T\u00e1ctil"
+        },
+        {
+            "referencia": "Galaxy Buds2 Pro",
+            "precio": "400 usd",
+            "garantia": "1 a\u00f1o",
+            "fabricante": "Samsung",
+            "stock": 20,
+            "caracteristicas": "Audio HQ: S\u00ed, Aislador de sonido: S\u00ed,Incluye micr\u00f3fono: S\u00ed, Resistente al agua, Modelo: SM-R510NZWALTA "
+        },
+        {
+            "referencia": "Televisor Samsung 58 pulgadas Crystal UHD 4K HDR Smart TV UN58CU7000 ",
+            "precio": "5000 usd",
+            "garantia": "2 a\u00f1os",
+            "fabricante": "Samsung",
+            "stock": 20,
+            "caracteristicas": "Crystal UHD, Tasa de refresco: 60Hz, Smart TV: S\u00ed, Cantidad de puertos HDMI: 3, Resoluci\u00f3n: 4K HDR, Ancho: 144,8 cm, Alto: 87,5 cm, Tipo de pantalla: Plana, Contraste: Mega contraste"
+        },
+        {
+            "referencia": "Televisor LG 50 pulgadas NANO CELL 4K Ultra HD Smart TV",
+            "precio": "4500 usd",
+            "garantia": "1 a\u00f1o",
+            "fabricante": "LG",
+            "stock": 20,
+            "caracteristicas": "NANO CELL, Tasa de refresco: 60Hz, Smart TV: S\u00ed, Cantidad de puertos HDMI: 3, Resoluci\u00f3n: 4K HDR, Ancho: 112.1 cm cm, Alto: 65.1 cm cm, Tipo de pantalla: Plana, Contraste: Mega contraste"
+        },
+        {
+            "referencia": "Televisor de 50' Serie X77l 4k Ultra Hd Google Tv",
+            "precio": "4500 usd",
+            "garantia": "1 a\u00f1o",
+            "fabricante": "Sony",
+            "stock": 20,
+            "caracteristicas": "NANO CELL, Tasa de refresco: 60Hz, Smart TV: S\u00ed, Cantidad de puertos HDMI: 3, Resoluci\u00f3n: 4K HDR, Ancho: 112.1 cm cm, Alto: 65.1 cm cm, Tipo de pantalla: Plana, Contraste: Mega contraste"
         }
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "registros": [
+        {
+            "fecha": "2024-05-13 18:45:21",
+            "mensaje": "La red es insetable ",
+            "tipo": "reclamacion"
+        },
+        {
+            "fecha": "2024-05-13 18:46:50",
+            "mensaje": "La red deberia ser mas estable ",
+            "tipo": "sugerencia"
+        }
+    ]
+}

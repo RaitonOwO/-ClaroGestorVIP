@@ -23,6 +23,7 @@ mostrar_historial_excepciones(RUTA_HISTORIAL_EXCEPCIONES)
 opc = 0
 
 while True:
+    mensaje_claro()
     menu_principal()
     opc = pedir_opcion()
     if opc == 1:
